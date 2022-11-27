@@ -45,7 +45,7 @@
         },
         "DATABASE_URL": {
             "description": "Name of the database in https://www.mongodb.com/. For more help watch this https://youtu.be/mD9veNL7KoE",
-            "value": "",
+            "value": "mongodb+srv://pp-filter-bot:pp-filter-bot@cluster0.kogpi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
             "required": true
         },
         "FORCE_SUB": {
